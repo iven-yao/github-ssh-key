@@ -6,7 +6,7 @@
 
 - if first time, should setup ssh agent and key chain, check tutorials ^
 
-# Adding a SSH key on github with public key
+# Adding an SSH key on github with public key
 [Official Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=webui)
 - copy the public key with
 
